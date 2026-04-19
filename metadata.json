@@ -1,0 +1,5 @@
+{
+  "name": "Texta - Adaptador a Lectura Fácil",
+  "description": "Aplicación que adapta textos complejos a formato de Lectura Fácil siguiendo la norma UNE 153101:2018.",
+  "requestFramePermissions": []
+}
