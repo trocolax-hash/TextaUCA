@@ -82,9 +82,9 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-stone-50 text-stone-900 font-sans selection:bg-indigo-100 selection:text-indigo-900">
+    <div className="min-h-screen bg-[#f0f9f8] text-stone-900 font-sans selection:bg-indigo-100 selection:text-indigo-900">
       {/* Header */}
-      <header className="bg-white/80 backdrop-blur-md border-b border-stone-200 sticky top-0 z-10">
+      <header className="bg-white/90 backdrop-blur-md border-b border-teal-100/50 sticky top-0 z-10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center gap-4">
           <div className="bg-indigo-50 p-3 rounded-2xl text-indigo-600 shadow-sm border border-indigo-100/50">
             <BookOpen size={24} className="stroke-[1.5]" />
